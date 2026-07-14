@@ -69,28 +69,28 @@ E-commerce de moda feminina desenvolvido como projeto de portfólio e como base 
 
 A aplicação conta com:
 
-* catálogo de produtos organizado por categorias;
-* busca, filtros e navegação entre produtos;
-* páginas individuais com informações, tamanhos e disponibilidade;
-* carrinho e favoritos com persistência local;
-* checkout demonstrativo dividido em múltiplas etapas;
-* página de confirmação de pedido;
-* interface responsiva para desktop e dispositivos móveis;
-* componentes reutilizáveis e TypeScript estrito;
-* SEO básico e cuidados com acessibilidade;
-* testes unitários e testes de ponta a ponta;
-* pipeline de integração contínua com lint, typecheck, testes e build.
+- catálogo de produtos organizado por categorias;
+- busca, filtros e navegação entre produtos;
+- páginas individuais com informações, tamanhos e disponibilidade;
+- carrinho e favoritos com persistência local;
+- checkout demonstrativo dividido em múltiplas etapas;
+- página de confirmação de pedido;
+- interface responsiva para desktop e dispositivos móveis;
+- componentes reutilizáveis e TypeScript estrito;
+- SEO básico e cuidados com acessibilidade;
+- testes unitários e testes de ponta a ponta;
+- pipeline de integração contínua com lint, typecheck, testes e build.
 
 O projeto é desenvolvido de forma incremental, com organização por sprints, documentação técnica e validação automatizada das principais funcionalidades antes de cada entrega.
 
 <div align="center">
 
-[![Ver repositórios](https://img.shields.io/badge/Ver_meus_repositórios-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LuccaMadeira10?tab=repositories)
+[![Ver repositórios](https://img.shields.io/badge/Ver_meus_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccaMadeira10?tab=repositories)
 
 </div>
 
 <!--
-Quando a Belíssima Store estiver pública, você pode substituir o botão acima por:
+Quando a Belíssima Store estiver pública, substitua o botão acima por:
 
 [![Repositório](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](COLE-AQUI-O-LINK-DO-REPOSITORIO)
 [![Demonstração](https://img.shields.io/badge/Ver_projeto-000000?style=for-the-badge&logo=vercel&logoColor=white)](COLE-AQUI-O-LINK-DA-VERCEL)
@@ -171,12 +171,12 @@ Adicione quando o repositório estiver público:
 
 Aplicação desenvolvida em equipe com foco em:
 
-* APIs REST;
-* autenticação utilizando JWT;
-* regras de negócio;
-* persistência de dados;
-* testes automatizados;
-* organização e qualidade de código.
+- APIs REST;
+- autenticação utilizando JWT;
+- regras de negócio;
+- persistência de dados;
+- testes automatizados;
+- organização e qualidade de código.
 
 <div align="center">
 
@@ -205,14 +205,14 @@ Adicione quando o repositório estiver público:
 
 <h2 align="center">🧭 Como desenvolvo</h2>
 
-* organização do trabalho em pequenas entregas;
-* atenção à legibilidade, manutenção e consistência do código;
-* uso de TypeScript estrito sempre que possível;
-* testes voltados a fluxos e comportamentos importantes;
-* validação com lint, typecheck, testes e build;
-* documentação das decisões e do estado dos projetos;
-* preocupação com responsividade, acessibilidade e experiência do usuário;
-* evolução incremental sem comprometer funcionalidades existentes.
+- organização do trabalho em pequenas entregas;
+- atenção à legibilidade, manutenção e consistência do código;
+- uso de TypeScript estrito sempre que possível;
+- testes voltados a fluxos e comportamentos importantes;
+- validação com lint, typecheck, testes e build;
+- documentação das decisões e do estado dos projetos;
+- preocupação com responsividade, acessibilidade e experiência do usuário;
+- evolução incremental sem comprometer funcionalidades existentes.
 
 ---
 
@@ -220,34 +220,58 @@ Adicione quando o repositório estiver público:
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### Desenvolvimento
+<td width="33%" valign="top">
 
-* Desenvolvimento Full Stack;
-* criação de interfaces responsivas;
-* desenvolvimento de APIs REST;
-* integração entre frontend e backend;
-* autenticação e autorização;
-* modelagem de regras de negócio;
-* gerenciamento de estado e persistência local;
-* integração com serviços externos.
+<strong>💻 Desenvolvimento</strong>
 
-</td>
-<td width="50%" valign="top">
+<br><br>
 
-### Qualidade e infraestrutura
-
-* testes unitários;
-* testes de integração;
-* testes de ponta a ponta;
-* Git e GitHub;
-* integração contínua;
-* Docker;
-* documentação técnica;
-* desenvolvimento incremental por sprints.
+<ul>
+<li>desenvolvimento Full Stack;</li>
+<li>interfaces responsivas;</li>
+<li>integração entre frontend e backend;</li>
+<li>gerenciamento de estado;</li>
+<li>persistência local de dados;</li>
+<li>integração com serviços externos.</li>
+</ul>
 
 </td>
+
+<td width="33%" valign="top">
+
+<strong>⚙️ Backend e dados</strong>
+
+<br><br>
+
+<ul>
+<li>desenvolvimento de APIs REST;</li>
+<li>modelagem de regras de negócio;</li>
+<li>bancos de dados relacionais;</li>
+<li>PostgreSQL e MySQL;</li>
+<li>autenticação e autorização com JWT;</li>
+<li>validação e tratamento de dados.</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<strong>🧪 Qualidade e entrega</strong>
+
+<br><br>
+
+<ul>
+<li>testes unitários e de integração;</li>
+<li>testes de ponta a ponta;</li>
+<li>Git e GitHub;</li>
+<li>integração contínua;</li>
+<li>Docker;</li>
+<li>documentação e entregas por sprints.</li>
+</ul>
+
+</td>
+
 </tr>
 </table>
 
@@ -334,14 +358,14 @@ Participei do desenvolvimento de uma pesquisa sobre a utilização de sensores m
 
 O trabalho envolveu:
 
-* monitoramento sem contato;
-* detecção de presença;
-* detecção de quedas;
-* análise de respiração e batimentos;
-* avaliação de interferências ambientais;
-* definição e execução de protocolos experimentais;
-* análise de dados e resultados;
-* produção de artigo científico no formato IEEE.
+- monitoramento sem contato;
+- detecção de presença;
+- detecção de quedas;
+- análise de respiração e batimentos;
+- avaliação de interferências ambientais;
+- definição e execução de protocolos experimentais;
+- análise de dados e resultados;
+- produção de artigo científico no formato IEEE.
 
 Durante a pesquisa, foram utilizados sensores como o **MR60BHA2**, voltado à medição de respiração e batimentos, e o **MR60FDA2**, utilizado para detecção de presença e quedas.
 
@@ -355,11 +379,17 @@ Essa experiência contribuiu para o desenvolvimento da minha comunicação, resp
 
 <h2 align="center">📊 GitHub em números</h2>
 
+<p align="center">
+Acompanhe meus repositórios, projetos públicos e atividade na plataforma.
+</p>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuccaMadeira10&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub de Lucca Madeira"/>
+[![Seguidores no GitHub](https://img.shields.io/github/followers/LuccaMadeira10?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&labelColor=161B22&color=1F6FEB)](https://github.com/LuccaMadeira10?tab=followers)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMadeira10&layout=compact&langs_count=6&theme=tokyonight&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Linguagens%20p%C3%BAblicas" alt="Linguagens mais utilizadas nos repositórios públicos de Lucca Madeira"/>
+[![Estrelas nos repositórios](https://img.shields.io/github/stars/LuccaMadeira10?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Estrelas&labelColor=161B22&color=8B5CF6)](https://github.com/LuccaMadeira10?tab=repositories)
+
+[![Ver repositórios](https://img.shields.io/badge/Repositórios-Ver_projetos-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/LuccaMadeira10?tab=repositories)
 
 </div>
 
@@ -373,9 +403,9 @@ Estou aberto a oportunidades de estágio, projetos e conexões com profissionais
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucca_Madeira-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luccammadeira/)
-[![Email](https://img.shields.io/badge/Email-luccamadeira2%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:luccamadeira2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-LuccaMadeira10-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/LuccaMadeira10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucca_Madeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccammadeira/)
+[![Email](https://img.shields.io/badge/Email-luccamadeira2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccamadeira2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LuccaMadeira10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccaMadeira10)
 
 <br><br>
 
